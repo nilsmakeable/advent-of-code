@@ -1,9 +1,0 @@
-{
-  "slack": {
-    "hookurl": "https://hooks.slack.com/services/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"
-  },
-  "adventofcode": {
-    "sessioncookie": "53616c7465645f5fbbfbd1132865005b38735c378015b169acb9abcd9a8abf4386e403623e83bbc3ef77a58f41d19c49",
-    "leaderboardurl": "https://adventofcode.com/2021/leaderboard/private/view/976.json?stars"
-  }
-}
